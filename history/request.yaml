@@ -1,5 +1,5 @@
 data_ready: false
 data_stream: CE02SHSP-SP001-01-DOSTAJ000-telemetered-dosta_abcdjm_cspp_instrument
-last_request: '2021-12-21T22:27:28.652703Z'
+last_request: '2022-01-01T00:42:12.880312Z'
 response: https://raw.githubusercontent.com/ooi-data/CE02SHSP-SP001-01-DOSTAJ000-telemetered-dosta_abcdjm_cspp_instrument/main/history/response.json
 status: discontinued
